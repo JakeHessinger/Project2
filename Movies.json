@@ -1,0 +1,11 @@
+{
+  "Movies":
+  [
+    {"MovieTitle":"I Am Legend","MovieDirector":"Francis Lawrence","MovieDuration":"1h 41m","MovieGenre":"Horror/SciFi","MovieRating":"PG-13","MovieReviews":"91%","MovieStars":"Will Smith, Alice Braga, Charlie Tahan","MovieSite":"https://imdb.com/title/tt0480249/","MovieReleaseDate":"December 14, 2007","MovieCover":"https://github.com/JakeHessinger/Project2/blob/main/iamlegend.jpg"},
+    {"MovieTitle":"The Notebook","MovieDirector":"Nick Cassavetes","MovieDuration":"2h 4m","MovieGenre":"Romance/Drama","MovieRating":"PG-13","MovieReviews":"90%","MovieStars":"Rachel McAdams, Ryan Gosling","MovieSite":"https://imdb.com/title/tt0332280/","MovieReleaseDate":"June 25, 2004","MovieCover":"https://github.com/JakeHessinger/Project2/blob/main/thenotebook.jpg"},   
+    {"MovieTitle":"Just Friends","MovieDirector":"Roger Kumble","MovieDuration":"1h 36m","MovieGenre":"Romance/Comedy","MovieRating":"PG-13","MovieReviews":"84%","MovieStars":"Ryan Reynolds, Amy Smart, Anna Faris","MovieSite":"https://imdb.com/title/tt0433400/","MovieReleaseDate":"November 23, 2005","MovieCover":"https://github.com/JakeHessinger/Project2/blob/main/justfriends.jpg"},
+    {"MovieTitle":"Free Guy","MovieDirector":"Shawn Levy","MovieDuration":"1h 55m","MovieGenre":"Action/Adventure","MovieRating":"PG-13","MovieReviews":"92%","MovieStars":"Ryan Reynolds, Jodie Comer","MovieSite":"https://imdb.com/title/tt6264654/","MovieReleaseDate":"August 13, 2021","MovieCover":"https://github.com/JakeHessinger/Project2/blob/main/freeguy.jpg"},
+    {"MovieTitle":"Ride Along","MovieDirector":"Tim Story","MovieDuration":"1h 40m","MovieGenre":"Comedy/Action","MovieRating":"PG-13","MovieReviews":"84%","MovieStars":"Kevin Hart, Ice Cube","MovieSite":"https://imdb.com/title/tt1408253/","MovieReleaseDate":"January 17, 2014","MovieCover":"https://github.com/JakeHessinger/Project2/blob/main/ridealong.jpg"}
+  ],
+  "Status":"OK"
+}
